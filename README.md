@@ -1,4 +1,4 @@
-# House-Prediction-
+# House-Prediction-Model
 Supervised Learning
 
 Linear regression is a type of supervised learning that uses inputs x to predict an outcome Y. It approximates a causal link between two or more variables linearly. Input X can take different values depending on whether it's a simple or multiple linear regression. We use simple and multiple regression to predict house price, the task's goal variable. While multiple regression focuses on the best-fitting model, simple regression is always about the line that fits the data the best. The lowest sum of square error is our goal. Model 4 is the most efficient since it predicts better and has the greatest r2 score (0.728). The House price.py file contains all of the work's source code. No missing values were found when I looked at my data, so I used a heat map to plot a correlation of the characteristics to help me decide which ones to use as the inputs for my regression.
